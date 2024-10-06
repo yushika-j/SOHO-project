@@ -11,3 +11,4 @@ This hands-on experience allowed me to strengthen my skills in network design an
 
 Looking forward to taking on more complex network configurations and learning even more in the networking field. 💻🌐
 
+![Network Diagram](https://github.com/yushika-j/SOHO-project/soho1.png)
